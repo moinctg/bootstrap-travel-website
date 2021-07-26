@@ -6,9 +6,9 @@ body{
   
 }
 
-/* .banner-bg{
+.banner-bg{
    background-image: url("/images/Decore.svg");
    background-position: top right;
   background-repeat: no-repeat;
-  background-size: 600px 600px;
-} */
+  /* background-size: 600px 600px; */
+}
